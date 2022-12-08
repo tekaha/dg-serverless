@@ -1,0 +1,23 @@
+{
+  "name": "dg-serverless",
+  "version": "1.0.0",
+  "description": "Serverless Functions on Netlify",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekaha/dg-serverless.git"
+  },
+  "author": "Holger Wingold <holger.wingold@adwizor.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekaha/dg-serverless/issues"
+  },
+  "homepage": "https://github.com/tekaha/dg-serverless#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
